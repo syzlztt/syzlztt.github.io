@@ -149,6 +149,7 @@
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)：json-swift
 * [realm-cocoa](https://github.com/realm/realm-cocoa)：Realm-Cocoa 是 Realm 公司推出一款移动端数据库, 可以运行在手机、平板和可穿戴设备之上, 其目标是取代 CoreData 和 SQLite 数据库
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)：加密算法-swift
+* [graphql](https://github.com/facebook/graphql)：Facebook开源项目，绑定到后端服务之上的查询引擎
 
 ## 路由
 * [JLRoutes](https://github.com/joeldev/JLRoutes)：URL路由库
@@ -180,32 +181,6 @@
 * [FCUUID](https://github.com/fabiocaccamo/FCUUID)：获得设备号的替代方式
 * [KSHObjcUML](https://github.com/kimsungwhee/KSHObjcUML)：生成类的关系图
 
-## Logger
-* [NSLogger](https://github.com/fpillet/NSLogger)：一款强大的日志分析工具, 具有大窗口查看 Log, 自定义日志等级等功能
-[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)：这是 Mac 和 iOS 的一款强大的日志框架, 配置简单, 多线程, 提供更高级的 log 功能, 可用于代替默认的 NSLog 语句
-
-## 框架
-* [three20](https://github.com/facebookarchive/three20)：由 Facebook iOS 客户端衍生出的一款 iPhone 框架, 内置许多丰富的功能, 有丰富的界面, 对底层的操作便捷, 为开发者省下了很多时间, 但现在已经停止了更新, 一个 PR 把代码删得干干净净, 不要好奇去点开 Files changed, 我点开后该页面直接卡死, three20 当中的一位作者创建了 Nimbus, 算是 three20 的一个替代品
-* [MobileProject](https://github.com/wujunyang/MobileProject)：一个基于MVC的项目框架，并集成一些常用的功能
-* [weex](https://github.com/alibaba/weex)：跨品台开发app框架
-
-## 播放器
-* [EZPlayer](https://github.com/easyui/EZPlayer)：可定制player
-* [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo)：类似youtube的视频缩小窗口
-* [EZAudio](https://github.com/syedhali/EZAudio)：基于核心音频,有助于进行实时，低延迟音频处理和可视化的iOS和OSX音频可视化框架
-
-
-## tvOS
-* [FocusTvButton](https://github.com/dcordero/FocusTvButton)：tv自定义button
-* [TvOSTextViewer](https://github.com/dcordero/TvOSTextViewer)：tv自定义文本显示
-* [ParallaxView](https://github.com/PGSSoft/ParallaxView)：tv选中动效
-
-## 游戏
-* [cocos2d-x](https://github.com/cocos2d/cocos2d-x)：cocos2d-x库
-* [cocos2d-objc](https://github.com/cocos2d/cocos2d-objc)：cocos2d-objc库
-* [OpenEmu](https://github.com/OpenEmu/OpenEmu)：超强的游戏模拟器, 做游戏开发必备, 官网做得也很不错
-
-
 ## 工具
 * [JSPatch](https://github.com/bang590/JSPatch)：热更新JSPatch，用JS编写OC的功能
 * [BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth)：封装后的蓝牙帮助库
@@ -223,9 +198,25 @@
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)：内购-swift
 * [Hedwig](https://github.com/onevcat/Hedwig)：邮件发送
 
-## 书&&学习
-* [SwiftGuide](https://github.com/ipader/SwiftGuide)：Swift学习资源集合
-* [iOS-Design-Patterns](https://github.com/YouXianMing/iOS-Design-Patterns)：设计模式介绍
+## 播放器
+* [EZPlayer](https://github.com/easyui/EZPlayer)：可定制player
+* [DraggableYoutubeFloatingVideo](https://github.com/vizllx/DraggableYoutubeFloatingVideo)：类似youtube的视频缩小窗口
+* [EZAudio](https://github.com/syedhali/EZAudio)：基于核心音频,有助于进行实时，低延迟音频处理和可视化的iOS和OSX音频可视化框架
+* [jwplayer](https://github.com/jwplayer/jwplayer)：定制化的播放器
+
+## 框架
+* [three20](https://github.com/facebookarchive/three20)：由 Facebook iOS 客户端衍生出的一款 iPhone 框架, 内置许多丰富的功能, 有丰富的界面, 对底层的操作便捷, 为开发者省下了很多时间, 但现在已经停止了更新, 一个 PR 把代码删得干干净净, 不要好奇去点开 Files changed, 我点开后该页面直接卡死, three20 当中的一位作者创建了 Nimbus, 算是 three20 的一个替代品
+* [MobileProject](https://github.com/wujunyang/MobileProject)：一个基于MVC的项目框架，并集成一些常用的功能
+* [weex](https://github.com/alibaba/weex)：跨品台开发app框架
+
+## Logger
+* [NSLogger](https://github.com/fpillet/NSLogger)：一款强大的日志分析工具, 具有大窗口查看 Log, 自定义日志等级等功能
+[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)：这是 Mac 和 iOS 的一款强大的日志框架, 配置简单, 多线程, 提供更高级的 log 功能, 可用于代替默认的 NSLog 语句
+
+## tvOS
+* [FocusTvButton](https://github.com/dcordero/FocusTvButton)：tv自定义button
+* [TvOSTextViewer](https://github.com/dcordero/TvOSTextViewer)：tv自定义文本显示
+* [ParallaxView](https://github.com/PGSSoft/ParallaxView)：tv选中动效
 
 ## 项目开源
 * [macdown](https://github.com/MacDownApp/macdown)：macdown项目开源
@@ -260,8 +251,18 @@
 * [Xctool](https://github.com/facebook/xctool)：是 Facebook 开源的一个命令行工具，用来替代苹果的 XcodeBuild 工具, 极大的方便了 iOS 的构建和测试, 输出错误信息也比较友好, 受到许多 iOS 开发者的称赞, 经常与其搭配使用的还有 OCUnit, Travis CI, OCLint 等测试工具
 * [Chameleon](https://github.com/ViccAlexander/Chameleon)：色彩插件，如果没有设计师又想一些漂亮的色彩就可以运用Chameleon
 
+## 书&&学习
+* [SwiftGuide](https://github.com/ipader/SwiftGuide)：Swift学习资源集合
+* [iOS-Design-Patterns](https://github.com/YouXianMing/iOS-Design-Patterns)：设计模式介绍
+* [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references)：RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计。
+
 ## 面试
 * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)：一个收集关于iOS面试题
+
+## 游戏
+* [cocos2d-x](https://github.com/cocos2d/cocos2d-x)：cocos2d-x库
+* [cocos2d-objc](https://github.com/cocos2d/cocos2d-objc)：cocos2d-objc库
+* [OpenEmu](https://github.com/OpenEmu/OpenEmu)：超强的游戏模拟器, 做游戏开发必备, 官网做得也很不错
 
 ## 其他
 * [appirater](https://github.com/arashpayan/appirater)：一款用于提醒用户给你的 App 打分的工具

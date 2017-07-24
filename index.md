@@ -293,6 +293,7 @@
 * [SwiftGuide](https://github.com/ipader/SwiftGuide)：Swift学习资源集合
 * [iOS-Design-Patterns](https://github.com/YouXianMing/iOS-Design-Patterns)：设计模式介绍
 * [restful-api-design-references](https://github.com/aisuhua/restful-api-design-references)：RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计。
+* [ios-good-practices](https://github.com/futurice/ios-good-practices): Good ideas for iOS development
 
 <a name="面试"></a>
 ## 面试

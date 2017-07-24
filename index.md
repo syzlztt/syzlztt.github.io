@@ -28,6 +28,7 @@
 * [react-native-guide](https://github.com/reactnativecn/react-native-guide)：React Native指南汇集了各类react-native学习资源、开源App和组件
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)：由 GitHub 工程师们开发的一个应用于 iOS 和 OS X 开发的函数响应式编程新框架, Matt 称其为 “An open source project that exemplifies this brave new era for Objective-C”, 也有人说它是 Cocoa 的未来, 具体可看唐巧写的这篇文章
 * [RxSwift](https://github.com/ReactiveX/RxSwift)：Reactive语法-swift
+* [awesome-react-native](https://github.com/jondot/awesome-react-native)：Awesome React Native components, news, tools, and learning material!
 
 <a name="组件"></a>
 ## 组件

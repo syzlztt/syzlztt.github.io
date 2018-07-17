@@ -3,14 +3,6 @@ layout: default
 ---
 
 <body>
-  <div class="index-wrapper">
-    <div class="aside">
-      <div class="info-card">
-        <h1>MS</h1>
-      </div>
-      <div id="particles-js"></div>
-    </div>
-
     <div class="index-content">
       <ul class="artical-list">
         {% for post in site.categories.blog %}
@@ -21,5 +13,4 @@ layout: default
         {% endfor %}
       </ul>
     </div>
-  </div>
 </body>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<body background="/images/bg.jpeg">
+<body background="images/bg.jpeg">
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">

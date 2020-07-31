@@ -4,3 +4,5 @@ title: MS
 url: https://mseternity.com/
 feed: /atom.xml
 author_info: <a href="https://mseternity.com/">MS</a>
+
+theme: jekyll-theme-cayman
